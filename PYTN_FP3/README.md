@@ -2,6 +2,9 @@
 ## Project Overview
 Dataset yang digunakan pada projek ini adalah dataset publik yang tersedia diwebsite kaggle, untuk mendapatkan dataset ini dapat diakses melalui link ini (https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data). Dataset ini berisi informasi mengenai record data pasien yang memiliki masalah dengan jantung mereka, dataset ini dapat digunakan untuk memprediksi apakah pasien akan mengalami kegagalan jantung atau tidak. Tujuan utama dari projek ini adalah membuat model untuk memprediksi kematian akibat gagal jantung menggunakan konsep Classification dengan ensemble Model. Algoritma yang dipilih pada pengerjaan projek ini adalah algoritma Random Forest. Random Forest merupakan algoritma yang menerapkan metode ensemble dari algoritma decision tree. Selain itu sebelum ke tujuan utama diperlukan beberapa proses seperti data cleaning, eksplorasi data, dan data preprocessing untuk memproses dataset agar siap dan dapat menghasilkan model klasifikasi yang optimal. Dataset ini memiliki dimensi sebesar 299 rows × 13 columns dengan semua fitur/kolom bertipe data numeric/continuous.
 
+Link Heroku :
+https://app-fp3.herokuapp.com/
+
 ##### Final project 3 ini dibuat guna mengevaluasi konsep Ensemble sebagai berikut :
 * Mampu memahami konsep Classification dan Ensemble Model
 * Mampu mempersiapkan data untuk digunakan dalam Ensemble Model
